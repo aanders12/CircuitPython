@@ -1,1 +1,2 @@
-capacitative touch assignment code and diagram
+capacitative touch assignment code and diagram ... 
+The project was easily understandable and exposed me to if, for, elif, else, statments for python. I've gotten a better understanding, and my code comprehension has been improved. 
